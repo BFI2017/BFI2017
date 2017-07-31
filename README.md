@@ -1,1 +1,2 @@
-# BFI2017
+# SourceCodeOfBFI
+BFI algorithm for packet classification
